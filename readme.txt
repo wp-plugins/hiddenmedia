@@ -3,7 +3,7 @@ Contributors: Arnan de Gans
 Donate link: http://meandmymac.net/donate/
 Tags: media, hidden, plugin, images, flash 
 Requires at least: 2.5
-Tested up to: 2.6
+Tested up to: 2.7
 Stable tag: 1.0
 
 Easily hide media from posts until you see the post on the single page.
